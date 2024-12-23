@@ -8,4 +8,4 @@ def fib(n):
 
 n = 32
 result = fib(n)
-print(result)
+print(f"fib({n}) = {result}")
