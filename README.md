@@ -1,1 +1,1 @@
-# algorithms_practicum
+# Лисиця В ИСИП-4
