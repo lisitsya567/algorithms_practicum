@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/b261cd7b-c0aa-464c-a47e-f85691753b2e)
 
 <h5>Вывод: В ходе выполнения, при возрастание значения n, время для выполнения данного алгоритма растет крайне стремительно. Фактически это простое повторяющая математическое определение.</h5> 
-[fib_recursive.py](https://github.com/lisitsya567/algorithms_practicum/blob/main/fib_recursive.py)
+<h6>fib_recursive.py</h6>(https://github.com/lisitsya567/algorithms_practicum/blob/main/fib_recursive.py)
 <br> 
 
 <h2>1.2. Вычисление n-го числа Фибоначчи с использованием цикла</h2>
